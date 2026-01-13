@@ -1,0 +1,22 @@
+# ===== 编译输出 =====
+Debug/
+Release/
+.build/
+build/
+
+# ===== 中间文件 =====
+*.o
+*.d
+*.elf
+*.map
+*.lst
+*.log
+
+# ===== IDE / 工具 =====
+.settings/
+.project
+.cproject
+.vscode/
+
+# ===== CubeMX 自动生成但可再生 =====
+Drivers/CMSIS/RTOS2/Template/
