@@ -20,3 +20,6 @@ build/
 
 # ===== CubeMX 自动生成但可再生 =====
 Drivers/CMSIS/RTOS2/Template/
+
+# ===== 其他 =====
+*.crf
